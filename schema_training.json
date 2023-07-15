@@ -1,0 +1,21 @@
+{	"SampleFileName": "energy_efficiency_08012020_120000.csv",
+	"LengthOfDateStampInFile": 8,
+	"LengthOfTimeStampInFile": 6,
+	"NumberofColumns" : 10,
+	"ColName": {
+		"relative compactness": "float64",
+		"surface area": "float64",
+		"wall area": "float64",
+		"roof area": "float64",
+		"overall height": "float64",
+		"orientation": "int64",
+		"glazing area": "float64",
+		"glazing area distribution": "int64",
+		"heating load (HL)": "float64",
+		"cooling load (CL)": "float64"
+
+
+
+	}
+}
+
