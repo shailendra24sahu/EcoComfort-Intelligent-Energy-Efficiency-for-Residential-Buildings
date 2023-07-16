@@ -1,5 +1,4 @@
 import os
-from prediction_Validation_Insertion import pred_validation
 from trainingModel import trainModel
 from training_Validation_Insertion import train_validation
 

@@ -1,0 +1,9 @@
+2023-07-15/23:21:41		Column Length Validation Started!!
+2023-07-15/23:21:41		Invalid Column Length for the file!! File moved to Bad Raw Folder :: energy_efficiency_05012023_150826.csv
+2023-07-15/23:21:41		Column Length Validation Completed!!
+2023-07-16/07:29:33		Column Length Validation Started!!
+2023-07-16/07:29:33		Invalid Column Length for the file!! File moved to Bad Raw Folder :: energy_efficiency_05012023_150826.csv
+2023-07-16/07:29:33		Column Length Validation Completed!!
+2023-07-16/07:34:48		Column Length Validation Started!!
+2023-07-16/07:34:48		Invalid Column Length for the file!! File moved to Bad Raw Folder :: energy_efficiency_05012023_150826.csv
+2023-07-16/07:34:48		Column Length Validation Completed!!

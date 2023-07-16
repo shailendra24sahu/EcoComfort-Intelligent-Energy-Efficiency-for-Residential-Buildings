@@ -1,0 +1,9 @@
+2023-07-15/23:21:41		Invalid File Name!! File moved to Bad Raw Folder :: energy_efficiency_05012023_0907.csv
+2023-07-15/23:21:41		Valid File name!! File moved to GoodRaw Folder :: energy_efficiency_05012023_122003.csv
+2023-07-15/23:21:41		Valid File name!! File moved to GoodRaw Folder :: energy_efficiency_05012023_150826.csv
+2023-07-16/07:29:33		Invalid File Name!! File moved to Bad Raw Folder :: energy_efficiency_05012023_0907.csv
+2023-07-16/07:29:33		Valid File name!! File moved to GoodRaw Folder :: energy_efficiency_05012023_122003.csv
+2023-07-16/07:29:33		Valid File name!! File moved to GoodRaw Folder :: energy_efficiency_05012023_150826.csv
+2023-07-16/07:34:47		Invalid File Name!! File moved to Bad Raw Folder :: energy_efficiency_05012023_0907.csv
+2023-07-16/07:34:47		Valid File name!! File moved to GoodRaw Folder :: energy_efficiency_05012023_122003.csv
+2023-07-16/07:34:47		Valid File name!! File moved to GoodRaw Folder :: energy_efficiency_05012023_150826.csv
