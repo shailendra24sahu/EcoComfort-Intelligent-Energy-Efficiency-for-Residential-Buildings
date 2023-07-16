@@ -1,1 +1,6 @@
 2023-07-16/09:19:49		Valid File name!! File moved to GoodRaw Folder :: energy_efficiency_05012023_122005.csv
+2023-07-16/20:25:44		Valid File name!! File moved to GoodRaw Folder :: energy_efficiency_05012023_122005.csv
+2023-07-16/20:28:15		Valid File name!! File moved to GoodRaw Folder :: energy_efficiency_05012023_122005.csv
+2023-07-16/21:46:00		Valid File name!! File moved to GoodRaw Folder :: energy_efficiency_05012023_122005.csv
+2023-07-16/21:48:38		Valid File name!! File moved to GoodRaw Folder :: energy_efficiency_05012023_122005.csv
+2023-07-16/22:14:31		Valid File name!! File moved to GoodRaw Folder :: energy_efficiency_05012023_122005.csv
