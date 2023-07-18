@@ -13,7 +13,7 @@
 .git
 .gitignore
 venv/
-
+Documentation/
 <!-- DataTransform_Training/
 preprocessing_data/
 DataTypeValidation_Insertion_Training/ -->
