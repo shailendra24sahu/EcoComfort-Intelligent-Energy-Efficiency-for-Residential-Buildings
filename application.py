@@ -13,7 +13,10 @@ from predictFromModel import prediction
 os.putenv('LANG', 'en_US.UTF-8')
 os.putenv('LC_ALL', 'en_US.UTF-8')
 
-app = Flask(__name__)
+application = Flask(__name__)
+
+app=application
+
 dashboard.bind(app)
 CORS(app)
 
@@ -91,7 +94,8 @@ def trainRouteClient():
     return Response("Training successfull!!")
 
 
-port = int(os.getenv("PORT",5001))
+# port = int(os.getenv("PORT",5001))
 if __name__ == "__main__":
-    app.run(port=port)
+    app.run(host="0.0.0.0")
+    # app.run(port=port)
 
